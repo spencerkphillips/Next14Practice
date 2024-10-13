@@ -1,50 +1,11 @@
-# NextJS 14 Practice & Expansion
-
-Learning NextJS14 from the top creators on YouTube and expanding on their teaching to create robust and intuitive portfolio projects.
-
-## 📋 <a name="table">Table of Contents</a>
-
-1. 🏫 [Build Blocks](#buildblocks)
-
-### <a name="buildblocks">🏫 Build Blocks</a>
-
-<div align="center">
-  <br />
-    <a href="https://youtu.be/y5vE8y_f_OM" target="_blank">
-      <img src="https://github.com/user-attachments./assets/eaaeb1f0-22da-46be-9e29-9bef70e0039d" alt="Live Docs Tutorial">
-    </a>
-  <br />
-
-  <div>
-    <img src="https://img.shields.io/badge/-Next_JS-black?style=for-the-badge&logoColor=white&logo=nextdotjs&color=61DAFB" alt="next.js" />
-    <img src="https://img.shields.io/badge/-TypeScript-black?style=for-the-badge&logoColor=white&logo=typescript&color=3178C6" alt="typescript" />
-    <img src="https://img.shields.io/badge/-Tailwind_CSS-black?style=for-the-badge&logoColor=white&logo=tailwindcss&color=06B6D4" alt="tailwindcss" />
-  </div>
-
-  <h3 align="center">Collaborate. Build. Together.</h3>
-
-   <div align="center">
-     A collaborative live page and document builder that takes the ideas of Live Docs by <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a> and expands it to create a full suite of sustainable and easy to use creation tools for developers, designers and everyday users.
-    </div>
-</div>
-
----
-
-
-#### <a name="buildblocks_snippets">✂ Important Snippets</a>
-
-<details>
-<summary><code>globals.css</code></summary>
-
-```css
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-/* @import "@buildblocks/react-ui/styles.css"; */
-/* @import "@liveblocks/react-lexical/styles.css"; */
+@import "@liveblocks/react-ui/styles.css";
+@import "@liveblocks/react-lexical/styles.css";
 
-/* @import "../styles/dark-theme.css"; */
+@import "../styles/dark-theme.css";
 
 /* ========================================== TAILWIND STYLES */
 @layer base {
@@ -72,6 +33,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
   .custom-scrollbar::-webkit-scrollbar-thumb:hover {
     background: #7878a3;
   }
+
 }
 
 @layer utilities {
@@ -243,7 +205,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
   height: 52px;
 }
 
-/* ======================== Liveblocks Override */
+/* ======================== buildblocks Override */
 .lb-root {
   --lb-accent-subtle: #0b1527;
   --lb-radius: 0px;
@@ -323,7 +285,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
   color: #b4c6ee;
 }
 
-.data-liveblocks-portal {
+.data-buildblocks-portal {
   color: #b4c6ee !important;
 }
 
@@ -344,11 +306,3 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 .lb-elevation {
   background: #0f1c34;
 }
-```
-
-</details>
-
-#### <a name="buildblocks_links">🔗 Links</a>
-
-- Public assets used in the project can be found [here](https://drive.google.com/file/d/1MCQaP-imgDdopwcUn4CN_D-WglDc--Ho/view?usp=sharing)
-- [Buildblocks Starter Guide](https://buildblocks.io/docs/get-started/nextjs-lexical)
