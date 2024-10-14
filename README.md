@@ -34,7 +34,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 #### <a name="buildblocks_pagebuilder">✅ Task List</a>
 <details>
 <summary>Page Builder</summary>
- - Build a page builder using custom page builder(referencing Build Blocks API and UI) with block library and intuitive user interface.
+ - Build a live and interactive page builder using NextJS & React (referencing Build Blocks API and Lexical UI) with block library and intuitive user interface.
 
  Details here:
 </details>
@@ -63,7 +63,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 </details>
 
 <details>
-<summary>Lexical Editor</summary>
+<summary>Lexical Editor + JSM Editor</summary>
   - Build a page builder using custom page builder(referencing Build Blocks API and UI) with block library and intuitive user interface.
 </details>
 
