@@ -70,7 +70,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 #### <a name="buildblocks_snippets">✂ Important Snippets</a>
 
 <details>
-<summary><code>globals.css</code></summary>
+<summary>🎨<code>globals.css</code></summary>
 
 ```css
 @tailwind base;
@@ -383,6 +383,22 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 ```
 
 </details>
+
+<details>
+<summary>🔒<code>.env.local</code></summary>
+
+```env
+#Clerk
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=
+CLERK_SECRET_KEY=
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+
+
+LIVEBLOCKS_SECRET_KEY=
+
+SENTRY_AUTH_TOKEN=
+```
 
 #### <a name="buildblocks_links">🔗 Links</a>
 
