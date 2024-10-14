@@ -31,6 +31,42 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 ---
 
 
+#### <a name="buildblocks_pagebuilder">✅ Task List</a>
+<details>
+<summary>Page Builder</summary>
+ - Build a page builder using custom page builder(referencing Build Blocks API and UI) with block library and intuitive user interface.
+
+ Details here:
+</details>
+
+<details>
+<summary>Programmatic Screenshots</summary>
+ - Make a server-action and component to capture a screenshot of pages and documents when edited. [Guide Here](https://medium.com/geekculture/how-to-build-programmatic-screenshots-of-any-website-in-seconds-using-next-js-b33fed502c7c)
+
+ Details here:
+</details>
+
+#### <a name="buildblocks_packages">📦 Important Utilities & Packages</a>
+<details>
+<summary>Live Blocks</summary>
+ - Build a page builder using custom page builder(referencing Build Blocks API and UI) with block library and intuitive user interface.
+</details>
+
+<details>
+<summary>Clerk Authentication</summary>
+ - Build a page builder using custom page builder(referencing Build Blocks API and UI) with block library and intuitive user interface.
+</details>
+
+<details>
+<summary>SentryIO</summary>
+  - Build a page builder using custom page builder(referencing Build Blocks API and UI) with block library and intuitive user interface.
+</details>
+
+<details>
+<summary>Lexical Editor</summary>
+  - Build a page builder using custom page builder(referencing Build Blocks API and UI) with block library and intuitive user interface.
+</details>
+
 #### <a name="buildblocks_snippets">✂ Important Snippets</a>
 
 <details>

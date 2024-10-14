@@ -5,6 +5,8 @@ import "./globals.css";
 
 import { Poppins } from 'next/font/google'
 import { Lora } from 'next/font/google'
+
+import Provider from './Provider';
  
 // If loading a variable font, you don't need to specify the font weight
 
@@ -50,7 +52,9 @@ export default function RootLayout({
       <body
         className={`${poppins.variable} ${lora.variable} font-sans antialiased`}
       >
+        <Provider>
         {children}
+        </Provider>
       </body>
     </html>
     </ClerkProvider>
