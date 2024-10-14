@@ -4,7 +4,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🏫 [Build Blocks](#buildblocks)
+1. 🏫 [Build Blocks](#buildblocks) -> FlexPage.io
 
 ### <a name="buildblocks">🏫 Build Blocks</a>
 
@@ -34,9 +34,12 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 #### <a name="buildblocks_pagebuilder">✅ Task List</a>
 <details>
 <summary>Page Builder</summary>
- - Build a live and interactive page builder using NextJS & React (referencing Build Blocks API and Lexical UI) with block library and intuitive user interface.
+ - Build a live and interactive page builder using NextJS & React (referencing Build Blocks API, Lexical UI, and ReactBuilder.dev functionality) with block library and intuitive user interface.
 
  Details here:
+ [NextJS Websocket Guide](https://leidson.medium.com/real-time-collaboration-with-nextjs-building-interactive-multi-user-applications-91b5eabd3a05)
+
+ [CraftJS](https://github.com/prevwong/craft.js)
 </details>
 
 <details>
