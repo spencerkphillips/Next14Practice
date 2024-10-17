@@ -4,7 +4,7 @@ Learning NextJS14 from the top creators on YouTube and expanding on their teachi
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🏫 [Build Blocks](#buildblocks) -> FlexPage.io
+1. 🏫 [Build Blocks](#buildblocks) -> FlexPage.io (for PolyCMS)
 
 ### <a name="buildblocks">🏫 Build Blocks</a>
 
